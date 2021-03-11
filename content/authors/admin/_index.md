@@ -6,7 +6,7 @@ title: Pan Haoran
 superuser: true
 
 # Role/position/tagline
-role: FAFU-CGB , graduate student of Bioinformatics
+role: Graduate student of Bioinformatics
 
 # Organizations/Affiliations to show in About widget
 organizations:
