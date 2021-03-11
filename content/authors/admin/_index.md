@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Pan Haoran
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: FAFU-CGB , graduate student of Bioinformatics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Fujian Agriculture and Forestry University , Center for Genomics and Biotechnology
+  url: https://genome.fafu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -64,7 +64,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "haoran_pan@qq.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
