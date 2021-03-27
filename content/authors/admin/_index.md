@@ -69,6 +69,6 @@ highlight_name: false
 
 Hello,I am Haoran Pan,a bioinformatics engineer and a growing data scientist. My Life motto is: to create, to experience.
 
-Pan Haoran is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Pan Haoran is a professor of artificial intelligence at the FAFU-CGB. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
