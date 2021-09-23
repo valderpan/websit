@@ -52,10 +52,7 @@ social:
   link: http://valderpan.github.io
 - icon: cv
   icon_pack: ai
-  link: media/Badila.Sobic.pdf
-- icon: cv
-  icon_pack: ai
-  link: media/Badila.LA.pdf  
+  link: media/3d-DNA manual.pdf  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -75,4 +72,3 @@ Hello,I am Haoran Pan,a bioinformatics enthusiasts and a devotee of Python/R. My
 
 I use my knowledge of Python, R and shell to solve problems in bioinformatics such as genome assembly of simple diploids/complex polyploids, comparative genomics, 3D genomics, and epigenomics.
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
