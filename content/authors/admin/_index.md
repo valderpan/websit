@@ -18,22 +18,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bioinformatics
+- Functional genomics
+- 3D genomics
+- Epigenomics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MAg in Crop Genetics and Genomics
+    institution: Fujian Agriculture And Forestry University
+    year: 2022
+  - course: BSc in Bioinformatics
+    institution: Shandong First Medical University
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,16 +40,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
+  link: panpyhr@gmail.com
+- icon: weibo
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://weibo.com/5738241199
 - icon: github
   icon_pack: fab
   link: https://github.com/valderpan
 - icon: blogger
   icon_pack: fab
   link: http://valderpan.github.io
+- icon: cv
+  icon_pack: ai
+  link: media/Badila.Sobic.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/Badila.LA.pdf  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -61,14 +65,14 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "haoran_pan@qq.com"
+email: "panpyhr@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Hello,I am Haoran Pan,a bioinformatics engineer and a growing data scientist. My Life motto is: to create, to experience.
+Hello,I am Haoran Pan,a bioinformatics enthusiasts and a devotee of Python/R. My Life motto is: Progress is the activity of today and the assurance of tomorrow.
 
-Pan Haoran is a professor of artificial intelligence at the FAFU-CGB. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I use my knowledge of Python, R and shell to solve problems in bioinformatics such as genome assembly of simple diploids/complex polyploids, comparative genomics, 3D genomics, and epigenomics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
