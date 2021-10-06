@@ -1,7 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+widget: Education experience
 
 # This file represents a page section.
 headless: true
@@ -22,24 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+  - title: Master of Agriculture in Crop Genetics and Genomics
+    company: Fujian Agriculture And Forestry University, Center for Genomics and Biotechnology
+    company_url: 'https://genome.fafu.edu.cn/'
+    location: Fuzhou,Fujian Province,China
+    date_start: '2019-09-01'
+    date_end: '2022-05-30'
     description: |2-
-        Responsibilities include:
+		Research Interests:
+		
+		* Complex Genome Assembly
+		* Comparative Genomics
+		* Three-dimensional genomics
+		* Epigenetics
         
-        * Analysing
-        * Modelling
-        * Deploying
+		Graduation Thesis:
         
-  - title: Professor
-    company: University X
+        * 《Genome assembly of autooctoploid sugarcane genome and genome-wide comparative analysis of regulatory elements》
+        
+  - title: Bachelor of Science in Bioinformatics
+    company: Shandong First Medical University
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Taian,Shandong Province,China
+    date_start: '2015-09-30'
+    date_end: '2019-06-30'
+    description: |2-
+		Graduation Thesis:
+        
+        * 《Co-expression network analysis based on lung cancer expression data》
+	
 ---
