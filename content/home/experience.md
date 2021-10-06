@@ -29,16 +29,16 @@ Education experience:
     date_start: '2019-09-01'
     date_end: '2022-05-30'
     description: >-
-		Research Interests:
+	    Research Interests:
+	
+	    * Complex Genome Assembly
+	    * Comparative Genomics
+	    * Three-dimensional genomics
+	    * Epigenetics
 		
-		* Complex Genome Assembly
-		* Comparative Genomics
-		* Three-dimensional genomics
-		* Epigenetics
-        
-		Graduation Thesis:
-        
-        * 《Genome assembly of autooctoploid sugarcane genome and genome-wide comparative analysis of regulatory elements》
+	    Graduation Thesis:
+		
+	    * 《Genome assembly of autooctoploid sugarcane genome and genome-wide comparative analysis of regulatory elements》
         
   - title: Bachelor of Science in Bioinformatics
     company: Shandong First Medical University
@@ -47,8 +47,8 @@ Education experience:
     date_start: '2015-09-30'
     date_end: '2019-06-30'
     description: >-
-		Graduation Thesis:
-        
+	    Graduation Thesis:
+		
         * 《Co-expression network analysis based on lung cancer expression data》
 	
 ---
