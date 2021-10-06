@@ -50,5 +50,4 @@ Education experience:
         Graduation Thesis:
 
         * 《Co-expression network analysis based on lung cancer expression data》
-	
 ---
