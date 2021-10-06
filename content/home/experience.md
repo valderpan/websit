@@ -1,7 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+widget: Eexperience
 
 # This file represents a page section.
 headless: true
@@ -21,13 +21,13 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
+experience: #no edit
   - title: Master of Agriculture in Crop Genetics and Genomics
     company: Fujian Agriculture And Forestry University, Center for Genomics and Biotechnology
     company_url: 'https://genome.fafu.edu.cn/'
     location: Fuzhou,Fujian Province,China
     date_start: '2019-09-01'
-    date_end: '2022-05-30'
+    date_end: ''
     description: >-
         Research Interests:
         
@@ -35,7 +35,7 @@ experience:
         * Comparative Genomics
         * Three-dimensional genomics
         * Epigenetics
-
+        >-
         Graduation Thesis:
 
         * 《Genome assembly of autooctoploid sugarcane genome and genome-wide comparative analysis of regulatory elements》
