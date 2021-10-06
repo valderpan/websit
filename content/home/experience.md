@@ -28,6 +28,12 @@ Education experience:
     location: Fuzhou,Fujian Province,China
     date_start: '2019-09-01'
     date_end: '2022-05-30'
+	description: >-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
     description: >-
         Research Interests:
 	    * Complex Genome Assembly
