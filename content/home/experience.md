@@ -33,12 +33,15 @@ experience: #no edit
         Research Interests:
         
         * Complex Genome Assembly
+        
         * Comparative Genomics
+        
         * Three-dimensional genomics
+        
         * Epigenetics
-        >-
+        
         Graduation Thesis:
-
+        
         * 《Genome assembly of autooctoploid sugarcane genome and genome-wide comparative analysis of regulatory elements》
         
   - title: Bachelor of Science in Bioinformatics
