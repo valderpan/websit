@@ -47,8 +47,8 @@ Education experience:
     date_start: '2015-09-30'
     date_end: '2019-06-30'
     description: >-
-	    Graduation Thesis:
-		
+        Graduation Thesis:
+
         * 《Co-expression network analysis based on lung cancer expression data》
 	
 ---
