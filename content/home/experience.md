@@ -25,7 +25,8 @@ experience: #no edit
   - title: Master of Agriculture in Crop Genetics and Genomics
     company: Fujian Agriculture And Forestry University, Center for Genomics and Biotechnology
     company_url: 'https://genome.fafu.edu.cn/'
-    location: Fuzhou,Fujian Province,China
+    company_logo:fafu
+    location: Fuzhou, Fujian Province, China
     date_start: '2019-09-01'
     date_end: ''
     description: >-
@@ -43,7 +44,8 @@ experience: #no edit
   - title: Bachelor of Science in Bioinformatics
     company: Shandong First Medical University
     company_url: ''
-    location: Taian,Shandong Province,China
+    company_logo:fafu
+    location: Taian, Shandong Province, China
     date_start: '2015-09-30'
     date_end: '2019-06-30'
     description: >-
