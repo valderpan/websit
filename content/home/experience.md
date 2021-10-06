@@ -35,7 +35,7 @@ Education experience:
         * Modelling
         * Deploying
     description: >-
-        Research Interests:
+    Research Interests:
 	    * Complex Genome Assembly
 	    * Comparative Genomics
 	    * Three-dimensional genomics
