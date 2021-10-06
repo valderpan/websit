@@ -21,14 +21,14 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
+Education experience:
   - title: Master of Agriculture in Crop Genetics and Genomics
     company: Fujian Agriculture And Forestry University, Center for Genomics and Biotechnology
     company_url: 'https://genome.fafu.edu.cn/'
     location: Fuzhou,Fujian Province,China
     date_start: '2019-09-01'
     date_end: '2022-05-30'
-    description: |2-
+    description: >-
 		Research Interests:
 		
 		* Complex Genome Assembly
@@ -46,7 +46,7 @@ experience:
     location: Taian,Shandong Province,China
     date_start: '2015-09-30'
     date_end: '2019-06-30'
-    description: |2-
+    description: >-
 		Graduation Thesis:
         
         * 《Co-expression network analysis based on lung cancer expression data》
