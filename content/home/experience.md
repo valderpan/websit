@@ -28,8 +28,8 @@ Education experience:
     location: Fuzhou,Fujian Province,China
     date_start: '2019-09-01'
     date_end: '2022-05-30'
-    description: >-
-	    Research Interests:
+    description:>-
+         Research Interests:
 	
 	    * Complex Genome Assembly
 	    * Comparative Genomics
@@ -46,7 +46,7 @@ Education experience:
     location: Taian,Shandong Province,China
     date_start: '2015-09-30'
     date_end: '2019-06-30'
-    description: >-
+    description:>-
 	    Graduation Thesis:
 		
         * 《Co-expression network analysis based on lung cancer expression data》
