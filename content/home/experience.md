@@ -1,7 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: Education experience
+widget: experience
 
 # This file represents a page section.
 headless: true
@@ -21,7 +21,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
+Education experience:
   - title: Master of Agriculture in Crop Genetics and Genomics
     company: Fujian Agriculture And Forestry University, Center for Genomics and Biotechnology
     company_url: 'https://genome.fafu.edu.cn/'
