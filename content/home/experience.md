@@ -28,7 +28,7 @@ Education experience:
     location: Fuzhou,Fujian Province,China
     date_start: '2019-09-01'
     date_end: '2022-05-30'
-	description: >-
+    description: >-
         Responsibilities include:
         
         * Analysing
